@@ -1,0 +1,22 @@
+.box {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  border: 20px dotted orange;
+}
+  
+#pic1 {
+  background-color: red;
+}
+
+#pic2 {
+  background-color: blue;
+}
+
+#pic3 {
+  background-color: yellow;
+}
+
+#pic4 {
+  background-color: violet;
+}

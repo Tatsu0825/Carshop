@@ -1,0 +1,109 @@
+/* span {
+     /* font-size: 50px !important; */
+/* } */ 
+
+.main_link {
+    text-decoration: none;
+    color: black;
+    background-color: aquamarine;
+}
+
+.main_link:hover {
+  background-color: darkolivegreen;
+  color: white;
+}
+#current_page{
+  background-color: darkblue;
+  color: white;
+}
+
+div span { 
+  color: blue;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#firstname:active {
+  background-color: yellow;
+}
+
+#website_banner {
+  font-weight: normal;
+  font-style: normal;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 2px 2px 0px lightcoral;
+  text-indent: 0px;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+}
+
+ul {
+  list-style-type: square;
+  list-style: url("../images/image.png") no-repeat center center;
+}
+
+#homepage_banner {
+  width: 100%;
+}
+
+table {
+  empty-cells: hide;
+  border-spacing: 5px 10px;
+  border-collapse: collapse;
+}
+
+
+
+ol {
+  list-style-position: outside;
+}
+
+.about_us_pic {
+  height: 250px;
+  width: 250px;
+  background-color: darkseagreen;
+  margin-bottom: 20px;
+  margin: 10px 20px;
+  padding: 50px;
+  border: 10px solid red;
+  border-radius: 250px;
+  overflow: hidden;
+  box-sizing: content-box;
+  box-shadow: 5px 7px 0px blue;
+  display: inline-block;
+  position: static;
+}
+
+body {
+  height: 2500px;
+}
+
+#pic1 {
+  background-image: url("../images/xtrail car.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  /* background-size: center center; */
+  background: red url("../images/xtrail car.jpeg") repeat auto;
+  float: right;
+}
+
+
+#pic2 {
+  /* left: 50px; */
+  /* z-index: 1; */
+  float: right;
+}
+
+#pic3 {
+  clear: right;
+}
+#pic4 {
+  z-index: 1;
+}
+  
+
+
