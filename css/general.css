@@ -91,6 +91,11 @@ body {
   float: right;
 }
 
+#container {
+  width: 85%;
+  margin: auto;
+}
+
 
 #pic2 {
   /* left: 50px; */
